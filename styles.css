@@ -1,16 +1,11 @@
-#app{
-  height:90vh;
+body{
+    height: 70vh;
 }
-.night{
-  background-color: black;
-  color:white;
-}
+.day{
+    background-color: black;
+    height: 70vh;
 
-#swap{
-  outline:0;
 }
-
-.button_night{
-  background-color:blue;
-  color:white; 
+#ptag{
+    color: aqua;
 }
