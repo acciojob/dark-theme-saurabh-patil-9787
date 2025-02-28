@@ -5,5 +5,5 @@ let swapBtn = document.getElementById('swap')
 swapBtn.addEventListener('click',swapTheme)
 
 function swapTheme (){
-    container.classList.toggle('day')
+    container.classList.toggle('night')
 }
